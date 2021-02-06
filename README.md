@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/47852925?s=460&u=4862d3eda05eeac2668a427e8dd486322e858c55&v=4" width="70" />  
-  <h2 align="center"><a href="https://codewonders.dev">You can call me Joseph</a></h2>
+  <h2 align="center"><a href="https://codewonders.dev">Joseph Chinedu</a></h2>
   <p align="center"> Software Developer</p>
 </p>
 
@@ -9,10 +9,10 @@
 </p>
 
 
-Here are some ideas to get you started:
+A bit about me:
 
-- 🔭 I’m currently working on ... I’m currently not working
-- 🌱 I’m currently learning ... Python / Django @https://univelcity.com/
+- 🔭 I’m currently not working
+- 🌱 I’m currently learning ... Python / Django @<a href="https://univelcity.com/">Univelcity</a>
 - 👯 I’m looking to collaborate on ... future technology
 - 💬 Ask me about ... Nigeria Music and about my home town
 - 📫 How to reach me: ...  joseph4jubilant@gmail.com
