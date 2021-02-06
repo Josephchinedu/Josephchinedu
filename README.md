@@ -18,7 +18,7 @@ A bit about me:
 - 📫 How to reach me: ...  joseph4jubilant@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I love music and wish i could play paino
-
+- 📫 Contributor @<a href="https://github.com/layer5io">Layer5</a>
 <!--
 **Josephchinedu/Josephchinedu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
