@@ -5,11 +5,19 @@
 </p>
 
 <p align="center">
-  <a href="https://devjoseph.com">Portfolio</a> | 
-
-  <a href="https://www.linkedin.com/in/joseph-chinedu-ba9a19170/">LinkedIn</a>
+  <a href="https://devjoseph.com">Portfolio</a> | <a href="https://www.linkedin.com/in/joseph-chinedu-ba9a19170/">LinkedIn</a>
 </p>
 
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ... I’m currently not working
+- 🌱 I’m currently learning ... Python / Django @https://univelcity.com/
+- 👯 I’m looking to collaborate on ... future technology
+- 💬 Ask me about ... Nigeria Music and about my home town
+- 📫 How to reach me: ...  joseph4jubilant@gmail.com
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... I love music and wish i could play paino
 
 <!--
 **Josephchinedu/Josephchinedu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
