@@ -25,7 +25,7 @@ A bit about me:
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... I’m currently not working
-- 🌱 I’m currently learning ... Python / Django @https://univelcity.com/
+- 🌱 Python / Django Alumni @https://univelcity.com/
 - 👯 I’m looking to collaborate on ... future technology
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... Nigeria Music and about my home town
