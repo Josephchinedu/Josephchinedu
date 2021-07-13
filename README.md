@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://devjoseph.com">Portfolio</a> | <a href="https://www.linkedin.com/in/joseph-chinedu-ba9a19170/">LinkedIn</a>
 </p>
+![](https://komarev.com/ghpvc/?username=your-github-josephchinedu&color=brightgreen)
 [![GitHub followers](https://img.shields.io/github/followers/josephchinedu.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/josephchinedu?tab=followers)
 
 
