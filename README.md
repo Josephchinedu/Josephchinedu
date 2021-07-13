@@ -22,4 +22,5 @@ A bit about me:
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I love music and wish i could play paino
 - 📫 Contributor @<a href="https://github.com/layer5io">Layer5</a>
+- ✨![langs](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen) ![l](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![](https://hit.yhype.me/github/profile?user_id=47852925)
