@@ -19,17 +19,4 @@ A bit about me:
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I love music and wish i could play paino
 - 📫 Contributor @<a href="https://github.com/layer5io">Layer5</a>
-<!--
-**Josephchinedu/Josephchinedu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... I’m currently not working
-- 🌱 Python / Django Alumni @https://univelcity.com/
-- 👯 I’m looking to collaborate on ... future technology
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... Nigeria Music and about my home town
-- 📫 How to reach me: ...  joseph4jubilant@gmail.com
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I love music and wish i could play paino
--->
+![](https://hit.yhype.me/github/profile?user_id=47852925)
