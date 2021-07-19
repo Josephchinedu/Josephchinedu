@@ -14,7 +14,7 @@
 
 A bit about me:
 
-- 🔭 I’m currently not working
+- 🔭 Engineering @<a href="https://instincthub.com/">instinct hub</a>
 - 🌱 Python / Django Alumni @<a href="https://univelcity.com/">Univelcity</a>
 - 👯 I’m looking to collaborate on ... future technology
 - 💬 Ask me about ... Nigeria Music and about my home town
