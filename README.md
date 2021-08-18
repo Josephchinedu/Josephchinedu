@@ -14,12 +14,11 @@
 
 A bit about me:
 
-- 🔭 Engineering @<a href="https://instincthub.com/">instinct hub</a>
+
 - 🌱 Python / Django Alumni @<a href="https://univelcity.com/">Univelcity</a>
 - 👯 I’m looking to collaborate on ... future technology
 - 💬 Ask me about ... Nigeria Music and about my home town
 - 📫 How to reach me: ...  joseph4jubilant@gmail.com
-- 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I love music and wish i could play paino
 - 📫 Contributor @<a href="https://github.com/layer5io">Layer5</a>
 - ✍ Blog <br /> <br /> <a href="https://josephchinedu.hashnode.dev/">![lamgs](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)</a><br /> <br />
