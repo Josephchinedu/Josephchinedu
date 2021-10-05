@@ -16,6 +16,7 @@ A bit about me:
 
 
 - 🌱 Python / Django Alumni @<a href="https://univelcity.com/">Univelcity</a>
+- 👨‍💻 Currently leanrning golang!!!!!!
 - 👯 I’m looking to collaborate on ... future technology
 - 💬 Ask me about ... Nigeria Music and about my home town
 - 📫 How to reach me: ...  joseph4jubilant@gmail.com
