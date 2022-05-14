@@ -20,7 +20,7 @@ A bit about me:
 - 💬 Ask me about ... Nigeria Music and about my home town
 - 📫 How to reach me: ...  joseph4jubilant@gmail.com
 - ⚡ Fun fact: ... I love music and wish i could play paino
-- 📫 Contributor @<a href="https://github.com/layer5io">Layer5</a>
+- 📫 Ex Contributor @<a href="https://github.com/layer5io">Layer5</a>
 - ✍ Ex backend developer @<a href="https://instincthub.com/">Instincthub</a>
 - 👨‍💻 Ex Intern @<a href="https://github.com/zurichat">Zuri chat</a>(company sale prospect plugin)
 - 👨‍💻 <a href="https://hng.tech/"> HNG</a> i8 Finalist 
