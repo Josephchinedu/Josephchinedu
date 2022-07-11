@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/47852925?s=460&u=4862d3eda05eeac2668a427e8dd486322e858c55&v=4" width="70" />  
   <h2 align="center"><a href="#">Joseph Chinedu</a></h2>
-  <p align="center"> Software Developer</p>
+  <p align="center"> Software Engineer</p>
 </p>
 
 <p align="center">
