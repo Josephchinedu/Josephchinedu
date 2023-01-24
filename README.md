@@ -24,7 +24,6 @@ A bit about me:
 - ✍ Ex backend developer @<a href="https://instincthub.com/">Instincthub</a>
 - 👨‍💻 Ex Intern @<a href="https://github.com/zurichat">Zuri chat</a>(company sale prospect plugin)
 - 👨‍💻 <a href="https://hng.tech/"> HNG</a> i8 Finalist 
-- 👨‍💻 Backend Engineer @<a href="https://github.com/LibertytechX">Liberty tech </a>
 - ✍ Github Gist <a href="https://gist.github.com/Josephchinedu"> Josephchinedu</a>
 - 👨‍💻 Leetcode <a href="https://leetcode.com/Devjoseph/"> Devjoseph </a>
 - ✍ Blog <br /> <br /> <a href="https://josephchinedu.hashnode.dev/">![lamgs](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)</a><br /> <br />
