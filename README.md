@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://devjoseph.com">Portfolio</a>
+ 
 </p>
 
 ![](https://komarev.com/ghpvc/?username=your-github-josephchinedu&color=brightgreen)
