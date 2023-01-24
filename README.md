@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://devjoseph.com">Portfolio</a> | <a href="https://www.linkedin.com/in/joseph-chinedu-ba9a19170/">LinkedIn</a>
+  <a href="https://devjoseph.com">Portfolio</a>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=your-github-josephchinedu&color=brightgreen)
