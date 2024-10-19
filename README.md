@@ -27,8 +27,14 @@ A bit about me:
 - ✍ Github Gist <a href="https://gist.github.com/Josephchinedu"> Josephchinedu</a>
 - 👨‍💻 Leetcode <a href="https://leetcode.com/Devjoseph/"> Devjoseph </a>
 - ✍ Blog <br /> <br /> <a href="https://josephchinedu.hashnode.dev/">![lamgs](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)</a><br /> <br />
-- ✨Skills <br /> <br /> ![langs](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen) ![l](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![](https://hit.yhype.me/github/profile?user_id=47852925) ![l](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![langs](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![lamgs](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![lamgs](https://img.shields.io/badge/heroku-092E20?style=for-the-badge&logo=heroku&logoColor=green) ![lamgs](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![lamgs](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![lamgs](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![lamgs](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![lamgs](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![lamgs](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+- ✨Certifications <br /> <br />
+    <ul>
+      <ol>Introduction to Cybersecurity - <a href="https://www.credly.com/badges/6f8e2373-42dd-4ba7-9c11-063f78050626/public_url">Cisco Networking Academy</a></ol>
+      <ol>Backend Engineer (Python, Django) - <a href="https://tunga.io">Tunga TIA</a></ol>
+      <ol>Python (Basic) Certificate - <a href="https://www.hackerrank.com/certificates/fcb53811a1a2">HackerRank</a></ol>
+      <ol>JavaScript - <a href="https://www.youracclaim.com/badges/84d2025c-3c6f-409e-a2a8-d28d1ec2d408/linked_in_profile">IBM</a></ol>
+      <ol>Python, Django Backend - <a href="https://univelcity.com/">Univelcity</a></ol>
+    </ul>
 <br />
 <br /><br />
 <br />
