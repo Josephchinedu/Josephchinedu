@@ -21,7 +21,7 @@ A bit about me:
 - 📫 How to reach me: ...  joseph4jubilant@gmail.com
 - ⚡ Fun fact: ... I love music and wish i could play paino
 - 📫 Ex Contributor @<a href="https://github.com/layer5io">Layer5</a>
-- ✍ Ex backend developer @<a href="https://instincthub.com/">Instincthub</a>
+- ✍ Ex backend developer @<a href="https://instincthub.com/">Instincthub</a> | @<a href="https://prembly.com/">Prembly</a>
 - 👨‍💻 Ex Intern @<a href="https://github.com/zurichat">Zuri chat</a>(company sale prospect plugin)
 - 👨‍💻 <a href="https://hng.tech/"> HNG</a> i8 Finalist 
 - ✍ Github Gist <a href="https://gist.github.com/Josephchinedu"> Josephchinedu</a>
