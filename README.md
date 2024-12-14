@@ -26,7 +26,9 @@ A bit about me:
 - 👨‍💻 <a href="https://hng.tech/"> HNG</a> i8 Finalist 
 - ✍ Github Gist <a href="https://gist.github.com/Josephchinedu"> Josephchinedu</a>
 - 👨‍💻 Leetcode <a href="https://leetcode.com/Devjoseph/"> Devjoseph </a>
-- ✍ Blog <br /> <br /> <a href="https://josephchinedu.hashnode.dev/">![lamgs](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)</a><br /> <br />
+- ✍ Blog <br /> <br /> <a href="https://josephchinedu.hashnode.dev/">![lamgs](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)</a>
+<a href="https://medium.com/@joseph4jubilant">![lamgs](https://img.shields.io/badge/Medium-500%20followers-brightgreen)</a>
+<br /> <br />
 - ✨Certifications <br /> <br />
     <ul>
       <ol>Introduction to Cybersecurity - <a href="https://www.credly.com/badges/6f8e2373-42dd-4ba7-9c11-063f78050626/public_url">Cisco Networking Academy</a></ol>
