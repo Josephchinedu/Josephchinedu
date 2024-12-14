@@ -31,11 +31,11 @@ A bit about me:
 <br /> <br />
 <hr>
 - ✨Certifications <br /> <br />
-  Introduction to Cybersecurity - <a href="https://www.credly.com/badges/6f8e2373-42dd-4ba7-9c11-063f78050626/public_url">Cisco Networking Academy</a><br />
-  Backend Engineer (Python, Django) - <a href="https://tunga.io">Tunga TIA</a><br />
-  Python (Basic) Certificate - <a href="https://www.hackerrank.com/certificates/fcb53811a1a2">HackerRank</a><br />
-  JavaScript - <a href="https://www.youracclaim.com/badges/84d2025c-3c6f-409e-a2a8-d28d1ec2d408/linked_in_profile">IBM</a><br />
-  Python, Django Backend - <a href="https://univelcity.com/">Univelcity</a><br />
+  Introduction to Cybersecurity - <a href="https://www.credly.com/badges/6f8e2373-42dd-4ba7-9c11-063f78050626/public_url">Cisco Networking Academy</a><br /><br />
+  Backend Engineer (Python, Django) - <a href="https://tunga.io">Tunga TIA</a><br /><br />
+  Python (Basic) Certificate - <a href="https://www.hackerrank.com/certificates/fcb53811a1a2">HackerRank</a><br /><br />
+  JavaScript - <a href="https://www.youracclaim.com/badges/84d2025c-3c6f-409e-a2a8-d28d1ec2d408/linked_in_profile">IBM</a><br /><br />
+  Python, Django Backend - <a href="https://univelcity.com/">Univelcity</a><br /><br />
 
 <hr>
 <br />
