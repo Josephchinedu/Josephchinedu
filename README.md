@@ -29,12 +29,13 @@ A bit about me:
 - ✍ Blog <br /> <br /> <a href="https://josephchinedu.hashnode.dev/">![lamgs](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)</a>
 <a href="https://medium.com/@joseph4jubilant">![lamgs](https://img.shields.io/badge/Medium-500%20followers-brightgreen)</a>
 <br /> <br />
+<hr>
 - ✨Certifications <br /> <br />
-  Introduction to Cybersecurity - <a href="https://www.credly.com/badges/6f8e2373-42dd-4ba7-9c11-063f78050626/public_url">Cisco Networking Academy</a>
-  Backend Engineer (Python, Django) - <a href="https://tunga.io">Tunga TIA</a>
-  Python (Basic) Certificate - <a href="https://www.hackerrank.com/certificates/fcb53811a1a2">HackerRank</a>
-  JavaScript - <a href="https://www.youracclaim.com/badges/84d2025c-3c6f-409e-a2a8-d28d1ec2d408/linked_in_profile">IBM</a>
-  Python, Django Backend - <a href="https://univelcity.com/">Univelcity</a>
+  Introduction to Cybersecurity - <a href="https://www.credly.com/badges/6f8e2373-42dd-4ba7-9c11-063f78050626/public_url">Cisco Networking Academy</a><br />
+  Backend Engineer (Python, Django) - <a href="https://tunga.io">Tunga TIA</a><br />
+  Python (Basic) Certificate - <a href="https://www.hackerrank.com/certificates/fcb53811a1a2">HackerRank</a><br />
+  JavaScript - <a href="https://www.youracclaim.com/badges/84d2025c-3c6f-409e-a2a8-d28d1ec2d408/linked_in_profile">IBM</a><br />
+  Python, Django Backend - <a href="https://univelcity.com/">Univelcity</a><br />
 
 <hr>
 <br />
