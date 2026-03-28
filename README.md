@@ -12,22 +12,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/josephchinedu.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/josephchinedu?tab=followers)
 
 
-A bit about me:
-
-
-- 🌱 Python / Django Alumni @<a href="https://univelcity.com/">Univelcity</a>
-- 👯 I’m looking to collaborate on ... future technology
-- 💬 Ask me about ... Nigeria Music and about my home town
-- 📫 How to reach me: ...  joseph4jubilant@gmail.com
-- ⚡ Fun fact: ... I love music and wish i could play paino
-- 📫 Ex Contributor @<a href="https://github.com/layer5io">Layer5</a>
-- ✍ Ex backend developer @<a href="https://instincthub.com/">Instincthub</a> | @<a href="https://prembly.com/">Prembly</a>
-- 👨‍💻 Ex Intern @<a href="https://github.com/zurichat">Zuri chat</a>(company sale prospect plugin)
-- 👨‍💻 <a href="https://hng.tech/"> HNG</a> i8 Finalist 
 - ✍ Github Gist <a href="https://gist.github.com/Josephchinedu"> Josephchinedu</a>
 - 👨‍💻 Leetcode <a href="https://leetcode.com/Devjoseph/"> Devjoseph </a>
-- ✍ Blog <br /> <br /> <a href="https://josephchinedu.hashnode.dev/">![lamgs](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)</a>
-<a href="https://medium.com/@joseph4jubilant">![lamgs](https://img.shields.io/badge/Medium-500%20followers-brightgreen)</a>
+
 <br /> <br />
 <hr>
 - ✨Certifications <br /> <br />
